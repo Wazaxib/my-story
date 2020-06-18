@@ -1,5 +1,3 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ## Welcome to GitHub Pages
 
